@@ -1,2 +1,1 @@
 # rScanSite
-rScan StaticPage
